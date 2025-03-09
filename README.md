@@ -8,5 +8,5 @@ FEATURES :-
 5) Input validation 
 6) MySQL Database Integration with Spring Data JPA
 
-
+Registration Page :- This is registration form where user fill his details and get register
 ![image alt](https://github.com/Ganesh2002f/Registration-Login-Form/blob/main/img1.png?raw=true)
