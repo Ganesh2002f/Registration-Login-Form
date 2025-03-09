@@ -1,4 +1,4 @@
-This project is a Login and Registration System built using Spring Boot, Spring Security, and Thymeleaf. It provides secure user authentication and stores passwords using BCrypt Password Encoder.
+This project is a Login and Registration System built using Spring Boot, Spring Security. It provides secure user authentication and stores passwords using BCrypt Password Encoder.
 
 
 Registration Page :- This is registration form where user fill his details and get register
