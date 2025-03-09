@@ -30,10 +30,3 @@ Database :- In database the password is store using BCrypt Password Encoder it s
 
 
 
-FEATURES :-
-1) User Registration with password encryption using BCrypt
-2) Secure User Login with Spring Security
-3) Login and Registration Forms 
-4) Redirect to a Home Page after successful login
-5) Input validation 
-6) MySQL Database Integration with Spring Data JPA
