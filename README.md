@@ -7,3 +7,6 @@ FEATURES :-
 4) Redirect to a Home Page after successful login
 5) Input validation 
 6) MySQL Database Integration with Spring Data JPA
+
+
+![image alt](https://github.com/Ganesh2002f/Registration-Login-Form/blob/main/img1.png?raw=true)
