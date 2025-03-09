@@ -13,6 +13,10 @@ Welcome & logout Page :- this is welcome page and have option from where you can
 
 ![image alt](https://github.com/Ganesh2002f/Registration-Login-Form/blob/main/img3%20(2).png?raw=true)
 
+Database :- In database the password is store using BCrypt Password Encoder it secure the application.
+
+![image alt](https://github.com/Ganesh2002f/Registration-Login-Form/blob/main/img4%20(2).png?raw=true)
+
 
 
 FEATURES :-
